@@ -4,4 +4,4 @@ WPU RESOLUSI
 -jangan melenceng 
 -Membuat diri sendiri bahagia
 -belajar pyton
--belajar mobile
+-belajar android
